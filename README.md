@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Abhay Singh and I'm a B.Tech. CSE Student , from SRM RMP</h2>
 
 ###
 
