@@ -29,7 +29,7 @@
 
 
 # 📊 Leetcode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ShivamGupta921?ext=heatmap)](https://leetcode.com/AbhaySingh_2003/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/AbhaySingh_2003?ext=heatmap)](https://leetcode.com/AbhaySingh_2003/)
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShivamGupta921&theme=hacker&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://github.com/imAbhaySingh) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imAbhaySingh&layout=compact&theme=vision-friendly-dark)](https://github.com/imAbhaySingh)
