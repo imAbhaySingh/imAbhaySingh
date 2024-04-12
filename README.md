@@ -1,76 +1,35 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamGupta921&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamGupta921" /> </p>
 
-###
+- 👋 Hi, I’m Abhay Singh
+- 👀 I’m interested in Competitive Programming and Software Development
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 💞️ I’m looking to collaborate on Development Related Projects 
+- 📫 How to reach me abhaybhadauriya2003@gmail.com
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhay-singh-b5873822b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
- 
-  <a href="abhaybhadauriya2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/abhaybhadauriya1" target ="__blank">
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-singh-b5873822b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhay._2003/)
 
-###
+## 🌐 Coding Platforms:
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/AbhaySingh_2003/)
+[![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/abhay_251252)
+[![CodingNinjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/Redchilli)
 
-<h1 align="center">hey there 👋</h1>
+# 👨‍💻 Skills:
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
+# 📊 Leetcode Stats:
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ShivamGupta921?ext=heatmap)](https://leetcode.com/AbhaySingh_2003/)
 
-###
-
-<p align="left">I'm Abhay Singh from Delhi<br><br>- 📚 I'm currently pursuing My B,Tech. from SRM RMP.<br>- ⚡ In my free time I code or watch movies</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/imAbhaySingh/count.svg?"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=imAbhaySingh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/imAbhaySingh/imAbhaySingh/output/snake.svg" alt="Snake animation" />
-
-###
+# 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShivamGupta921&theme=hacker&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://github.com/imAbhaySingh) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imAbhaySingh&layout=compact&theme=vision-friendly-dark)](https://github.com/imAbhaySingh)
